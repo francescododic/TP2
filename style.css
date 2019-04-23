@@ -1,7 +1,7 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: green;
 }
 
 #header
@@ -41,7 +41,7 @@
 	border-right: 1px solid #fff;
 }
 
-#navigation li a:hover { background: #383; }
+#navigation li a:hover { background: #679; }
 
 #edito
 {
@@ -68,13 +68,13 @@
 }
 
 #news
-{	
+{
 	float: left;
-	width: 40%;
+	width: 35%;
 	padding: 20px;
 	margin: 20px;
 	-webkit-border-radius: 18px;
-	border-radius: 18px;
+	border-radius: 10px;
 	-webkit-box-shadow: 0px 0px 6px #000000;
 	box-shadow: 0px 0px 6px #000000;
 	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
@@ -88,7 +88,7 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background: #ddd;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
